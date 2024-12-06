@@ -1,0 +1,16 @@
+{
+  "name": "test_2",
+  "studentData": {
+    "age": "credit_form_2 birthDate calcAge",
+    "gender" : "credit_form_2 gender insert",
+    "residenceRegion" : "credit_form_2 addresses askAI какой номер региона проживания, ответь только числом",
+    "averageScore" : "education_departmen subjects average",
+    "profession" : "education_departmen educationSpecialty askAI какя профессия будет у человека закончившего этот факультет, ответь одним словом",
+    "administrativeOffense" : "fedresource offesnseHistory calcItems",
+    "overdueLoanStudent" : "UCB accounts askAI какой % месяцев с просрочкой, ответь только числом"
+  },
+  "parentsData": {
+    "overdueLoanParents" : "23.8",
+    "parentsBankruptcy" : "true"
+  }
+}
