@@ -67,9 +67,7 @@ Hack-Change24-main
 ![Схема работы программы](schema.png)
 
 ### Интерфейс программы:
-![Интерфейс 1](interface1.png)
-![Интерфейс 2](interface2.png)
-![Интерфейс 3](interface3.png)
+![Интерфейс 1](interface4.png)
 
 ---
 
